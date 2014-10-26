@@ -54,7 +54,8 @@ for ealett in azchar:
 
 # output
 ''' 
-	a - 2
-	b - 23
+	aaaaaa
+	bbbbbbbbbbbb
+	ccc
 	etc.
 '''
