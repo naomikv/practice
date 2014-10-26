@@ -50,10 +50,8 @@ for ealett in azchar:
 # prints each line of graph filled with appropriate letter
 	print ealett * dict[ealett]
 
-
-
-# output
 ''' 
+output:
 	aaaaaa
 	bbbbbbbbbbbb
 	ccc
